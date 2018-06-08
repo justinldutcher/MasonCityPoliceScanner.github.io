@@ -1,46 +1,80 @@
-## Welcome to Mason City Police Scanner
+<!DOCTYPE html>
+<html>
+<head>
+<meta content='width=810' name='viewport'>
+<script src="/assets/tab/embedded/visitor-wrapped.module-c7f61512ff8b9c4e064d2e920a3e0fa8.js" type="text/javascript"></script>
+<style>
+  /*<![CDATA[*/
+    body, html {
+      height: 100%;
+    }
+    
+    body {
+      margin: 0px;
+      padding: 0px;
+    }
+    
+    .header {
+      padding: 24px;
+      background: #eceff6;
+      border-bottom: solid 2px #d4dae8;
+      line-height: 1px;
+    }
+    
+    #page_link {
+      font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+      font-size: 24px;
+      color: #333;
+      text-decoration: none;
+      float: left;
+    }
+    
+    iframe {
+      width: 810px;
+      height: 100%;
+      padding-top: 48px;
+      position: absolute;
+      top: 0px;
+      box-sizing: border-box;
+    }
+    
+    .fb-like {
+      width: auto!important;
+      position: absolute!important;
+      right: 80px;
+      height: 22px;
+      margin-top: -6px;
+      overflow: hidden;
+      -moz-transform: scale(1.7);
+      -webkit-transform: scale(1.7);
+      -o-transform: scale(1.7);
+      -ms-transform: scale(1.7);
+      transform: scale(1.7);
+    }
+  /*]]>*/
+</style>
+</head>
+<body>
+<div class='header'>
+<a href='https://facebook.com/503271823057018' id='page_link'></a>
+<div class='fb-like' data-href='http://facebook.com/503271823057018' data-layout='button_count' data-send='false' data-show-faces='false' data-width='200'></div>
+</div>
+<iframe border='0' frameborder='0' id='content_iframe' name='content_iframe'></iframe>
+<form action='//raw2.statichtmlapp.com/tab/1/visitor/503271823057018' id='request_form' method='post' target='content_iframe'>
+<input name='signed_request' type='hidden' value='q3Lbg-0klIs1gg5gn_zHzUwMkpxjdardcjxLEiZpYEA.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsInVzZXIiOnsibG9jYWxlIjoiZW5fVVMifSwicGFnZSI6eyJpZCI6IjUwMzI3MTgyMzA1NzAxOCIsImxpa2VkIjp0cnVlfX0'>
+</form>
+<script>
+  //<![CDATA[
+    TabWrapped = require('tab/embedded/visitor-wrapped');
+    app = new TabWrapped({"page_id":"503271823057018","visitor_url":"//raw2.statichtmlapp.com/tab/1/visitor/503271823057018","signed_request":"q3Lbg-0klIs1gg5gn_zHzUwMkpxjdardcjxLEiZpYEA.eyJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsInVzZXIiOnsibG9jYWxlIjoiZW5fVVMifSwicGFnZSI6eyJpZCI6IjUwMzI3MTgyMzA1NzAxOCIsImxpa2VkIjp0cnVlfX0"})
+    document.querySelector('#content_iframe').style.minHeight = document.documentElement.clientHeight + "px";
+    document.querySelector('#request_form').submit();
+    
+    window.fbAsyncHooks = [function(){
+      app.fb_init_done()
+    }]
+  //]]>
+</script>
 
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/MasonCityPoliceScanner/MasonCityPoliceScanner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-bit.ly/1FfN9e1
-
-# Highlights info row image
-bit.ly/1FfN9e1
-## https://app.statichtmlapp.com/tab/1/visitor/503271823057018/wrapped
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](URL) and ![Image](src)bit.ly/1FfN9e1
-[Link](URL) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MasonCityPoliceScanner/MasonCityPoliceScanner.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>

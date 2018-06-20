@@ -1,4 +1,4 @@
-## Welcome to Mason City Police Scanner
+## Welcome to [Mason City Police Scanner]( http://bit.ly/1FfN9e1 )
 We now offers services with Mason City digital forensic
 
 Today’s cell phones have a story to tell!

@@ -12,10 +12,6 @@ Today’s cell phones have a story to tell!
     GPS Data
     EMails
 
-Cell Phone Mapping
-The data we obtain from operator for subscriber information shows much more data then phone numbers, time of the call and duration.
-We can answer your questions
-
 Mason City Forensic can show such data as:
 
     Which cell tower(s) handled a call, text message or data (such as web browsing)

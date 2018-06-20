@@ -46,7 +46,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-bit.ly/1FfN9e1
+
+{{ bit.ly/1FfN9e1 }}{%bit.ly/1FfN9e1 %}
 
 # Highlights info row image
 bit.ly/1FfN9e1

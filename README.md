@@ -1,5 +1,6 @@
-## Welcome to Mason City Police Scanner we now offers services with Mason City digital forensic 
-[DETAILED QUOTE](https://www.digitalforensicscorp.com/partner-cases/partner-case/2fc03291a2b5-825c-6737-93a9-aeaec994)
+## Welcome to Mason City Police Scanner
+We now offers services with Mason City digital forensic
+Client Information. Please complete and submit the form [DETAILED QUOTE](https://www.digitalforensicscorp.com/partner-cases/partner-case/2fc03291a2b5-825c-6737-93a9-aeaec994)
 
 You can use the [editor on GitHub](https://github.com/MasonCityPoliceScanner/MasonCityPoliceScanner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

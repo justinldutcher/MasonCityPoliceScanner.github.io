@@ -1,5 +1,5 @@
 ## Welcome to [Mason City Police Scanner]( http://bit.ly/1FfN9e1 )
-We now offers services with Mason City digital forensic
+We now offer a service with digital forensic
 
 Today’s cell phones have a story to tell!
 
@@ -27,9 +27,10 @@ Mason City Forensic works with certified engineer reviewing digital devices whic
     Forensic analysis
     E-Discovery
 
-With locations across North America, our digital forensics experts are near and ready to help. We are able to work on your case remotely, in-lab and onsite. Contact us or submit a case today [QUOTE](https://www.digitalforensicscorp.com/partner-cases/partner-case/2fc03291a2b5-825c-6737-93a9-aeaec994) to learn more about how we can help you.
+We are able to work on your case remotely, in-lab and onsite.
 
-Leading ExpertsThe MCDF team is comprised of forensic investigators, certified fraud examiners, former law enforcement officials, certified digital forensic examiners , data analysts, and system and network domain experts.
+Contact us or submit a case today [QUOTE](https://www.digitalforensicscorp.com/partner-cases/partner-case/2fc03291a2b5-825c-6737-93a9-aeaec994) to learn more about how we can help you.
+Our team is comprised of forensic investigators, certified fraud examiners, former law enforcement officials, certified digital forensic examiners , data analysts, and system and network domain experts.
 
 
 Client Information. 

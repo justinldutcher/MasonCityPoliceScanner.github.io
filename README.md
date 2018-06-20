@@ -1,4 +1,5 @@
 ## Welcome to [Mason City Police Scanner]( http://bit.ly/1FfN9e1 )
+[LISTEN LIVE](https://www.broadcastify.com/listen/feed/19612/web)
 We now offer a service with digital forensic
 
 Today’s cell phones have a story to tell!

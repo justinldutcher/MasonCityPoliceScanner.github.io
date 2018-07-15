@@ -49,7 +49,7 @@ Please complete and submit the form
 You can use the [editor on GitHub](https://github.com/MasonCityPoliceScanner/MasonCityPoliceScanner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+[https://i2.wp.com/i.imgur.com/5ugmKE7.gif]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

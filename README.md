@@ -8,43 +8,7 @@
 
 [TEST3](http://www.broadcastify.com/listen/feed/19612)
 
-We now offer a service with digital forensic
 
-Today’s cell phones have a story to tell!
-
-    SMS and MMS
-    Videos and Pictures
-    Audio files, Voice-mails
-    Calendar Information
-    Call History
-    Browsing History
-    GPS Data
-    EMails
-
-Mason City Forensic can show such data as:
-
-    Which cell tower(s) handled a call, text message or data (such as web browsing)
-    The location(s) of the cellular towers
-    The geographical location the phone could have been in
-    The type of call and number dialed or number the phone was called from
-
-Mason City Forensic works with certified engineer reviewing digital devices which contained deleted data in preparation for litigation
-
-    Imaging
-    Data Recovery
-    Data Analysis
-    Forensic analysis
-    E-Discovery
-
-We are able to work on your case remotely, in-lab and onsite.
-
-Contact us or submit a case today [QUOTE](https://www.digitalforensicscorp.com/partner-cases/partner-case/2fc03291a2b5-825c-6737-93a9-aeaec994) to learn more about how we can help you.
-Our team is comprised of forensic investigators, certified fraud examiners, former law enforcement officials, certified digital forensic examiners , data analysts, and system and network domain experts.
-
-
-Client Information. 
-Please complete and submit the form
-[DETAILED QUOTE](https://www.digitalforensicscorp.com/partner-cases/partner-case/2fc03291a2b5-825c-6737-93a9-aeaec994)
 
 You can use the [editor on GitHub](https://github.com/MasonCityPoliceScanner/MasonCityPoliceScanner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
